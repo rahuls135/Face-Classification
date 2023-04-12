@@ -1,0 +1,15 @@
+Instructions for running tasks:
+
+Task 1: Subject Label Classification
+Bayes
+    python3 bayes_subject_classification.py
+K-NN
+    python3 knn_subject_classification.py
+
+
+Task 2: Expression Classification
+Bayes
+    python3 bayes_expression_classification.py
+K-NN
+    python3 knn_expression_classification.py
+
